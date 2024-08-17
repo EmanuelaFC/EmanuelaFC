@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Meu nome é Emanuela, e sou Analista de Controle e Qualidade de Sistemas (Tester QA). 🚀<br><br>Experiência: Tenho 3 anos de experiência em análise de controle e qualidade, trabalhando com uma variedade de ferramentas e metodologias para identificar e corrigir problemas antes que eles cheguem ao usuário final.<br><br>Especialidades:<br>Testes funcionais e não funcionais<br>Automação de testes<br>Análise de requisitos e qualidade de código<br>Gestão de qualidade e processos<br><br>Neste repositório, você encontrará projetos relacionados aos estudos que estou realizando para aprimorar minhas habilidades. Minha intenção é compartilhar meu progresso e contribuir para a comunidade com o conhecimento que adquiro ao longo dessa jornada.</p>
+<p align="left">Meu nome é Emanuela, e sou Analista de Controle e Qualidade de Sistemas (Tester QA). 🚀<br><br>Tenho 3 anos de experiência em análise de controle e qualidade, trabalhando com uma variedade de ferramentas e metodologias para identificar e corrigir problemas antes que eles cheguem ao usuário final.<br><br>Especialidades:<br>Testes funcionais e não funcionais<br>Automação de testes<br>Análise de requisitos e qualidade de código<br>Gestão de qualidade e processos<br><br>Neste repositório, você encontrará projetos relacionados aos estudos que estou realizando para aprimorar minhas habilidades. Minha intenção é compartilhar meu progresso e contribuir para a comunidade com o conhecimento que adquiro ao longo dessa jornada.</p>
 
 ###
 
